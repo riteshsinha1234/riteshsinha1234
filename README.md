@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ritesh.sinha.737001@gmail.com**
 
-- 📄 My experience [https://www.figma.com/file/u8ZpyEMK4HLP84IysQeX8V/Ritesh-Sinha?node-id=490%3A15](https://www.figma.com/file/u8ZpyEMK4HLP84IysQeX8V/Ritesh-Sinha?node-id=490%3A15)
+- 📄 My experience https://docs.google.com/document/d/1gdV0qc6168ctn-gaxs5f-A6pnkwiY0YraNiCk-mYJA4/edit
 
 - ⚡ Fun fact **I Never Loose Hope**
 
