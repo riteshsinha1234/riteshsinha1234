@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Flutter Developer , UI/UX designer, Graphic Designer,</h3>
 
 
-<img align="right" alt="Coding" width="300" src="https://c.tenor.com/IGPY1zlGO84AAAAd/life-programmer.gif">
+<img align="right" alt="Coding" width="300" src="[https://c.tenor.com/IGPY1zlGO84AAAAd/life-programmer.gif](https://i.pinimg.com/originals/69/0c/7d/690c7d26b0e75dcf3aa183b384792a2e.gif)">
 
 - 🔭 Puja purohit [Ipurohit](https://play.google.com/store/apps/details?id=com.pujapurohit.brahminapp)
 
