@@ -3,7 +3,7 @@
 <h3 align="center">I'm a Flutter Developer , UI/UX designer, Graphic Designer,</h3>
 
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/38/89/42/38894243105d2af32bb0b9d5fd9657d1.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/a4/51/39/a451393c169a91586312551109361064.gif">
 
 - 🔭 Puja purohit [Ipurohit](https://play.google.com/store/apps/details?id=com.pujapurohit.brahminapp)
 
