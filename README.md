@@ -7,11 +7,11 @@
 
 - 🔭 Puja purohit [Ipurohit](https://play.google.com/store/apps/details?id=com.pujapurohit.brahminapp)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **Flutter , Figma**,**Firebase**,**Dockers**
+- 💬 Ask me about **Dart , Flutter , Getx/Bloc , Firebase , GCP , Figma , Java(Primary) , AWS , Linux , Netwroking**
 
-- 📫 How to reach me **ritesh.sinha.737001@gmail.com**
+- 📫 How to reach me **ritesh.sinha.737001@gmail.com or linkedin.com/in/ritesh-sinha-*
 
 - 📄 My experience https://docs.google.com/document/d/1znmVgQOs8M5N3NES2KsX4UQldJ86npR-XZg_7Ln1G38/edit
 
