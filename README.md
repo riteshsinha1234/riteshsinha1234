@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Ritesh Sinha</h1>
-<h3 align="center">I'm a Flutter Developer , UI/UX designer, Graphic Designer,</h3>
+<h3 align="center">I'm Software Development Engineer</h3>
 
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/a4/51/39/a451393c169a91586312551109361064.gif">
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Flutter , Figma**
+- 💬 Ask me about **Flutter , Figma**,**Firebase**,**Dockers**
 
 - 📫 How to reach me **ritesh.sinha.737001@gmail.com**
 
